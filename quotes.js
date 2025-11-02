@@ -1,5 +1,5 @@
 import express from "express";
-import { getQuotes, getAverage, getSlippage } from "../services/quotesService.js";
+import { getQuotes, getAverage, getSlippage } from "../quotesService.js";
 
 const router = express.Router();
 
