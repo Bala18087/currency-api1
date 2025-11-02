@@ -2,7 +2,7 @@
   "name": "currency-api",
   "version": "1.0.0",
   "description": "Currency exchange API for USD-ARS/BRL with quotes, average, and slippage endpoints.",
-  "main": "src/server.js",
+  "main": "server.js",
   "type": "module",
   "scripts": {
     "start": "node server.js",
