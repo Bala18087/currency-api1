@@ -1,5 +1,5 @@
 import express from "express";
-import quotesRouter from "./routes/quotes.js";
+import quotesRouter from "./quotes.js";
 
 const app = express();
 const PORT = process.env.PORT || 3000;
